@@ -1,0 +1,11 @@
+.list-container{
+    list-style-type: none;
+    margin-left: 30px;
+}
+.title{
+    font-size: 20px;
+}
+p{
+    margin-left: 13px;
+    margin-bottom: 15px;
+}
